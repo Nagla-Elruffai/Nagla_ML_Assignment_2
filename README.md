@@ -1,0 +1,10 @@
+This is the assignment 2 images 
+<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/4ebbbee8-476c-4caf-8686-48e6262bc5b2" />
+<img width="568" height="455" alt="image" src="https://github.com/user-attachments/assets/b3317229-ff55-4986-91ce-713310b98aa5" />
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/018c4614-b406-4ef0-9639-da3d64c0b310" />
+<img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/1e62ae7b-9f92-4cf2-ae3d-6bef7a20d35f" />
+<img width="548" height="435" alt="image" src="https://github.com/user-attachments/assets/a71e2b1a-0ff4-4994-bb79-adb81fbe1bb3" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6a99778c-9e62-4ef6-bd96-ff0668984ccf" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/911d437e-a6af-4c27-9bc6-741a3476ef34" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/574d38e4-1daa-459d-8166-6c09a91a318c" />
+<img width="797" height="858" alt="image" src="https://github.com/user-attachments/assets/4deed81a-2ce3-4898-8a90-cb876c485549" />
