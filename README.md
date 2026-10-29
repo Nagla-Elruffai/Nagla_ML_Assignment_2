@@ -7,4 +7,5 @@ This is the assignment 2 images
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6a99778c-9e62-4ef6-bd96-ff0668984ccf" />
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/911d437e-a6af-4c27-9bc6-741a3476ef34" />
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/574d38e4-1daa-459d-8166-6c09a91a318c" />
+<img width="1926" height="1312" alt="image" src="https://github.com/user-attachments/assets/77e1eeb0-a0a4-4947-8544-3ef9d9364fd2" />
 <img width="797" height="858" alt="image" src="https://github.com/user-attachments/assets/4deed81a-2ce3-4898-8a90-cb876c485549" />
