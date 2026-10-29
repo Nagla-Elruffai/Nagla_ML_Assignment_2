@@ -1,11 +1,29 @@
-This is the assignment 2 images 
-<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/4ebbbee8-476c-4caf-8686-48e6262bc5b2" />
-<img width="568" height="455" alt="image" src="https://github.com/user-attachments/assets/b3317229-ff55-4986-91ce-713310b98aa5" />
-<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/018c4614-b406-4ef0-9639-da3d64c0b310" />
-<img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/1e62ae7b-9f92-4cf2-ae3d-6bef7a20d35f" />
-<img width="548" height="435" alt="image" src="https://github.com/user-attachments/assets/a71e2b1a-0ff4-4994-bb79-adb81fbe1bb3" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6a99778c-9e62-4ef6-bd96-ff0668984ccf" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/911d437e-a6af-4c27-9bc6-741a3476ef34" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/574d38e4-1daa-459d-8166-6c09a91a318c" />
-<img width="1926" height="1312" alt="image" src="https://github.com/user-attachments/assets/77e1eeb0-a0a4-4947-8544-3ef9d9364fd2" />
-<img width="797" height="858" alt="image" src="https://github.com/user-attachments/assets/4deed81a-2ce3-4898-8a90-cb876c485549" />
+Assignment Report: Wine Quality Classification
+
+1. Overview
+In this assignment, we explored and classified wine samples from the Italian Wine Dataset using three machine learning models: Support Vector Machine (SVM), Decision Tree, and Logistic Regression.
+
+2. Dataset
+Features: 13 chemical features (such as alcohol levels, malic acid, ash, color intensity, and proline).
+Classes: 3 classes of wine cultivars.
+Size: 178 samples (split into 70% training and 30% testing).
+
+3. Preprocessing
+Standardized features using StandardScaler to handle differing scales across chemical measurements.
+
+4. Model Evaluation
+Model	Features Used	Test Accuracy
+
+Logistic Regression	First 2 Features (Alcohol, Malic Acid) = 98.1%
+
+<img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/c2f85f35-db6f-4121-a530-f741b4428a88" />
+
+Decision Tree	All 13 Features = 94.4%
+
+<img width="755" height="589" alt="Screenshot 2026-10-29 at 3 27 24 PM" src="https://github.com/user-attachments/assets/5ac8ca36-a1e9-40d3-b079-927d08d75dce" />
+
+
+6. Key Findings
+   
+Top Performance: The Logistic Regression model achieved a remarkable 98.1% accuracy using only the first two features (Alcohol and Malic Acid), indicating these are highly descriptive features.
+Model Interpretability: The Decision Tree reached 94.4% accuracy and provided an easily interpretable, visual rule set showing major decision splits based on features like color_intensity.
